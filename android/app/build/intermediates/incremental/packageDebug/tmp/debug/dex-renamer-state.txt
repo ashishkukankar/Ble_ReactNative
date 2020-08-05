@@ -1,0 +1,4 @@
+#Tue Aug 04 15:51:58 IST 2020
+base.0=C\:\\react_native_projects\\blutooth\\zebra-poc-mobile-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
